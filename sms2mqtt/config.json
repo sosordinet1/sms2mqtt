@@ -35,5 +35,6 @@
     "addon_config:rw"
   ],
   "ports": {},
-  "image": "sosordinet1/addon-sms2mqtt-{arch}"
+  "image": "domochip/sms2mqtt"
 }
+
